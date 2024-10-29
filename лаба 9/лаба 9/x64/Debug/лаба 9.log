@@ -1,0 +1,86 @@
+﻿  9 лаба.c
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(127,21): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+      C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(127,21):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+      C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(127,21):
+      отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+      C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(127,21):
+      этот аргумент используется в качестве размера буфера
+  
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(134,13): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(142,43): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(143,21): error C2065: radius: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(143,30): error C2065: radius: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(143,9): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(147,102): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(148,22): error C2065: x1: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(148,27): error C2065: x0: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(149,25): error C2296: "-": недопустимо, поскольку тип левого операнда — "double (__cdecl *)(double)"
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(149,18): error C2198: int abs(int): слишком мало аргументов для вызова
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(150,19): error C2065: x0: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(150,24): error C2065: x1: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(155,33): error C2065: height: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(155,31): warning C4047: <: "double (__cdecl *)(double)" отличается по уровням косвенного обращения от "int"
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(155,43): error C2065: x0: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(155,54): error C2065: x0: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(155,59): error C2065: width: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(156,17): error C2065: canvas: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(156,23): error C2109: для индекса требуется массив или указатель
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(156,28): error C2065: x0: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(156,34): error C2065: symbol: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(158,17): error C2065: x0: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(158,23): error C2065: x1: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(162,17): error C2065: x0: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(166,20): error C2296: "+=": недопустимо, поскольку тип левого операнда — "double (__cdecl *)(double)"
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(172,95): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(174,29): error C2065: height: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(175,33): error C2065: width: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(177,21): warning C4013: isInsidePolygon: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(177,43): error C2065: x: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(177,46): error C2065: y: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(178,21): error C2065: canvas: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(178,27): error C2109: для индекса требуется массив или указатель
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(178,36): error C2065: fillSymbol: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(185,71): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(188,19): error C2065: polygonY: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(188,27): error C2109: для индекса требуется массив или указатель
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(188,33): error C2065: y: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(188,40): error C2065: polygonY: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(188,48): error C2109: для индекса требуется массив или указатель
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(188,54): error C2065: y: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(189,18): error C2065: x: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(189,23): error C2065: polygonX: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(189,31): error C2109: для индекса требуется массив или указатель
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(189,37): error C2065: polygonX: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(189,45): error C2109: для индекса требуется массив или указатель
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(189,53): error C2065: y: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(189,57): error C2065: polygonY: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(189,65): error C2109: для индекса требуется массив или указатель
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(189,73): error C2065: polygonY: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(189,81): error C2109: для индекса требуется массив или указатель
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(189,87): error C2065: polygonY: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(189,95): error C2109: для индекса требуется массив или указатель
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(189,102): error C2065: polygonX: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(189,110): error C2109: для индекса требуется массив или указатель
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(193,9): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(197,72): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(198,22): error C2065: radius: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(199,21): error C2065: radius: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(214,26): error C2065: radius: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(215,26): error C2065: radius: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(220,74): error C2065: borderSymbol: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(224,50): error C2065: fillSymbol: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(242,26): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(243,13): error C2065: sides: необъявленный идентификатор
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(251,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(294,9): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(155,17): error C4996: 'y0': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _y0. See online help for details.
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(158,29): error C4996: 'y0': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _y0. See online help for details.
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(257,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(266,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(280,21): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(282,21): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(300,8): error C2143: синтаксическая ошибка: отсутствие ")" перед "строка"
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(300,8): error C2143: синтаксическая ошибка: отсутствие "{" перед "строка"
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(300,8): error C2059: синтаксическая ошибка: строка
+C:\Users\Любовь\source\repos\лаба 9\лаба 9\9 лаба.c(300,15): error C2059: синтаксическая ошибка: )
